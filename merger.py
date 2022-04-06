@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 
 file1 = 'bright_stars.csv'
-file2 = 'dwars_stars.csv'
+file2 = 'dwarf_stars.csv'
 
 d1 = []
 d2 = []
